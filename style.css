@@ -1,0 +1,40 @@
+.main{
+     border: 2px solid burlywood;
+     width: 170px;
+     margin: 0 auto;
+     
+}
+.result{
+border: 1px solid steelblue;
+background-color: teal;
+
+width: 167px;
+padding: 2px;
+margin-top: 2px;
+
+
+}
+.clear{
+width: 90%;
+border: 1px solid turquoise;
+font-size: larger;
+font-weight: bold;
+color: tomato;
+text-align: center;
+border-radius: 30%;
+background-color: lightgreen;
+box-shadow: 1px grey;
+
+
+}
+.btn{
+width: 35px;
+margin: 2px;
+border:1px solid turquoise; 
+font-size: larger;
+font-weight: bold;
+color: tomato;
+border-radius: 50%;
+
+
+}
